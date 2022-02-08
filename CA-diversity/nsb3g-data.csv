@@ -1,0 +1,8 @@
+,NSB,stdDev,how
+DP pre,9.17677,0.01232,sample
+DP pos,9.20539,0.01275,sample
+DP dbn,9.17783,0.01344,sample
+CD4 spl,9.01953,0.01166,sample
+CD4 negS,9.05356,0.02394,NSB
+CD8 spl,9.15616,0.01189,sample
+CD8 negS,9.173,0.02378,NSB
