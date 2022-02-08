@@ -20,10 +20,10 @@ In order to reproduce the plots:
 - `numpy`
 - `pandas`
 - `matplotlib`
+- `scipy`
 - `scikit-learn`
+- `seaborn`
+- `tensorflow`
 
-2) Install locally the following github repositories:
-- `thymmatu` : 
-- - run [git clone] https://github.com/camacesco/thym-mat-project.git
-- - change directory to 'thym-mat-project'
-- - run [pip install -e .]
+2) Install the `sonia` package from github repositories:
+
