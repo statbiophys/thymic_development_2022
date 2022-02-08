@@ -10,7 +10,7 @@ Link : TBA
 
 In order to reproduce the plots:
 
-1) Extract all '.tar' files in this folder.
+1) Extract the file 'CA-lienar_models.tar' in this folder.
 
 2) Install the Required Packages (see section below).
 
@@ -26,6 +26,4 @@ In order to reproduce the plots:
 - `scikit-learn`
 - `seaborn`
 - `tensorflow`
-
-2) Install the `sonia` package from github repositories:
-
+- `sonia`
