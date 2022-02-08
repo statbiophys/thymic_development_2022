@@ -8,9 +8,11 @@ Reference: Population based selection shapes the T cell receptor repertoire duri
 
 In order to reproduce the plots:
 
-1) Install the Required Packages (see section below).
+1) Extract all '.tar' files in this folder.
 
-2) Run the corrispondent Jupyter notebook.
+2) Install the Required Packages (see section below).
+
+3) Run the corrispondent Jupyter notebook.
 
 ## Required Packages
 
