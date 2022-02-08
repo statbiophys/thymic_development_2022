@@ -2,20 +2,26 @@
 
 Written by Francesco Camaglia, LPENS Paris, CNRS.
 
-Reference: Population based selection shapes the T cell receptor repertoire during thymic development. Francesco Camaglia,Arie Ryvkin, Erez Greenstein, Shlomit Reich-Zeliger, Benny Chain, Thierry Mora, Aleksandra M. Walczak, Nir Friedman __FIXME{add link}__
+Reference: Population based selection shapes the T cell receptor repertoire during thymic development. Francesco Camaglia,Arie Ryvkin, Erez Greenstein, Shlomit Reich-Zeliger, Benny Chain, Thierry Mora, Aleksandra M. Walczak, Nir Friedman (2022)
 
 ## Reproduce Plots
 
-In order to reproduce the plots you need to __FIXME{complete}__.
+In order to reproduce the plots:
 
-1) Sample data.
+1) Install the Required Packages (see section below).
 
-## Requisites
+2) Run the corrispondent Jupyter notebook.
 
-__FIXME{check}__
-- olga
-- tensorflow
-- numpy
-- pandas
-- scipy
-- matplotlib
+## Required Packages
+
+1) Default pip install:
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `scikit-learn`
+
+2) Install locally the following github repositories:
+- `thymmatu` : 
+- - run [git clone] https://github.com/camacesco/thym-mat-project.git
+- - change directory to 'thym-mat-project'
+- - run [pip install -e .]
