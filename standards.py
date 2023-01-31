@@ -4,7 +4,6 @@
 #  options  #
 #############
 
-
 CDR3='cdr3-bs-ff'
 
 ###############
@@ -15,9 +14,9 @@ CC_VEC = ["DP_pre", "DP_DBN", "DP_pos", "CD4_spl", "CD4_negS", "CD8_spl", "CD8_n
 HEADERS = [ "DP pre", "DP dbn", "DP pos", "CD4 spl", "CD4 negS", "CD8 spl", "CD8 negS" ]
 
 aux = ['#0088ff', "#a5c630","#488f31","#00d3d6","#ef5675","#bc5090","#ffa600","#ff764a"]
-EXP15_KOL = dict(zip(['gen']+HEADERS, aux))
-EXP15_KOL[r'$P_{gen}$'] = EXP15_KOL['gen']
-EXP15_KOL[r'$P_{\rm gen}$'] = EXP15_KOL['gen']
+EXP_KOL = dict(zip(['gen']+HEADERS, aux))
+EXP_KOL[r'$P_{gen}$'] = EXP_KOL['gen']
+EXP_KOL[r'$P_{\rm gen}$'] = EXP_KOL['gen']
 
 ###############
 #  practical  #

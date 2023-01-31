@@ -2,8 +2,12 @@
 # -*- coding: utf-8 -*-
 
 '''
-    Scattering
-    Copyright (C) February 2022 Francesco Camaglia, LPENS 
+    *** Scattering ***
+    Copyright (C) February 2023 Francesco Camaglia, CNRS LPENS 
+
+    Reference :
+    Francesco Camaglia, Arie Ryvkin, Erez Greenstein, Shlomit Reich-Zeliger, Benny Chain, Thierry Mora, Aleksandra M. Walczak, Nir Friedman (2023).
+    Quantifying changes in the T cell receptor repertoire during thymic development. [https://doi.org/10.7554/eLife.81622]
 '''
 
 import pandas as pd 
