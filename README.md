@@ -31,4 +31,4 @@ Quantifying changes in the T cell receptor repertoire during thymic development.
 
 ## License
 
-Free use of the code is granted under the terms of the [GNU General Public License version 3](LICENSE.md) (GPLv3). 
+Free use of the code is granted under the terms of the [GNU General Public License version 3](LICENSE) (GPLv3). 
